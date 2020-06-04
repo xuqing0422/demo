@@ -5,7 +5,7 @@ public class CloneDemo {
         T t2 = (T) t.clone();
         System.out.println(t.hashCode() );
         System.out.println(t2.hashCode());
-
+        System.out.println("github updated");
     }
 }
 
